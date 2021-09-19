@@ -9,6 +9,7 @@ import string
 from termcolor import cprint
 import argparse
 
+
 class Key():
 	def __init__(self,serializeKey=None,keyNTB=3,keySPP=10,keyCESARD=3,keySYM_TONUM="$",keySYM_SPLIT="@@@@@"):
 

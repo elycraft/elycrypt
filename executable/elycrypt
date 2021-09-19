@@ -4,6 +4,7 @@
 Created on Sun Mar  7 18:33:07 2021
 @author: Elycraft
 """
+
 import random
 import string
 from termcolor import cprint
